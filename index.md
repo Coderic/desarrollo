@@ -4,7 +4,7 @@ title: "Hola Mundo!"
 ---
 <div id="slider" style="height: auto;">
     <div class="container clearfix">
-        <img src="https://coderic.net/assets/coderic/images/slider/1.jpg" alt="Slider 1" />
+        <img src="https://coderic.org/assets/coderic/images/slider/1.jpg" alt="Slider 1" />
     </div>
 </div>
 <div class="content-wrap">
